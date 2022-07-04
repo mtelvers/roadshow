@@ -1,0 +1,14 @@
+main:
+  - title: "Locations"
+    url: /locations
+  - title: "Exhibitors"
+    url: /exhibitors
+  - title: Speakers
+    url: /speakers
+  - title: "Food & Drink"
+    url: /food-drink
+  - title: Mini Ring
+    url: /mini-ring
+  - title: Bookings
+    url: /bookings
+
