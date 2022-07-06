@@ -7,3 +7,4 @@ A selection of hot and cold snacks and meals is available from the University’
 
 There will be a **beer tent** provided by Dionysius Bars serving real ale from local Castle Rock Brewery
 
+![](/media/harvest-pale.jpg)

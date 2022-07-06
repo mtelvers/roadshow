@@ -20,9 +20,11 @@ Things to see, things to do, things to learn, things to try, things to buy – w
 
 Publications group will have the full range of Central Council publications for sale
 
-Historical & Archive Workgroup will be displaying some of the more interesting things owned by the Central Council, including the collection of historial ringing badges, certificates and some interesting books. The group is encouraging other ringers to bring along interesting things they have to share with a wider audience
+Historical & Archive Workgroup will be displaying some of the more interesting things owned by the Central Council, including the collection of historical ringing badges, certificates and some interesting books. The group is encouraging other ringers to bring along interesting things they have to share with a wider audience
 
 Rolls of Honour – the illuminated books containing the names of those ringers who have given their lives in the wars will be on rare display
+
+![](/media/rolls.jpg)
 
 Stewardship & Management Workgroup – there to help with all manner of questions and advice on matters relating to tower management and infrastructure
 
@@ -30,5 +32,5 @@ Stewardship & Management Workgroup – there to help with all manner of question
 
 Avon Ropes is going to be displaying a rope walk so you can have a go at making a bellrope
 
-A number of pairs of Ebells will be set up connected to laptops so you can see how these can help you to ring handbells using software tools
+A number of pairs of [Ebells](https://ebells.co.uk) will be set up connected to laptops so you can see how these can help you to ring handbells using software tools
 

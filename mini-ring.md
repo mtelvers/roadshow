@@ -7,8 +7,17 @@ Outside the Pavilion building you will be able to try your hand on a number of m
 
 Confirmed attendees are
 
-* Stallpits Ring
-* Bicycle ring on tour
-* Maypole ring (this may be sited indoors it was at Goldsmiths)
-* Matthew Higby mini ring
+# Stallpits Ring
+
+![](/media/stallpits.jpg)
+
+# Maypole ring
+
+![](/media/maypole.jpg)
+
+# Matthew Higby mini ring
+
+# Mobile Belfry 2.0
+
+![](/media/still-3.png)
 
