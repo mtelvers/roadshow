@@ -24,7 +24,7 @@ feature_row:
   url: "/speakers"
   btn_class: btn--primary
   btn_label: Learn more
-- image_path: /media/maypole.jpg
+- image_path: /media/stallpits.jpg
   alt: Mini Ring
   title: Mini Ring
   excerpt: Try your hand on a mini ring
