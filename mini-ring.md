@@ -17,6 +17,8 @@ Confirmed attendees are
 
 # Matthew Higby mini ring
 
+![](/media/higby.jpg)
+
 # Mobile Belfry 2.0
 
 ![](/media/still-3.png)
