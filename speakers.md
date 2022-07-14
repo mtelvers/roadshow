@@ -5,21 +5,21 @@ layout: single
 
 We are pleased to have been able to assemble an engaging group of speakers with a diverse range of topics. 
 
-# 11.30 – 12.30
-* Colin Newman (CCCBR Schools and Youth Groups Workgroup Leader); **Engaging young ringers**
-* Marcus Booth & Rebecca Meyer (Ecclesiastical Insurance Group); **Insurance Matters**
+## 11.30 – 12.30
+* Colin Newman (CCCBR Schools and Youth Groups Workgroup Leader); **Engaging with Young Ringers**
+* Marcus Booth & Rebecca Meyer (Benefact Group (Ecclesiastical Insurance)); **Insurance and Risk Assessment in Bellringing**
 
-# 13.00 – 14.00
-* Arthur Reeves (St Martin’s Guild and Birmingham School of Bell Ringing tutor); **How can we be the best teacher for our learners?**
+## 13.00 – 14.00
+* Arthur Reeves (St Martin’s Guild and Birmingham School of Bell Ringing tutor); **How can we be the best teacher for our students?**
 * Gareth Davies; **Who wants to be a ringing millionaire?**
 
-# 14.15 – 15.15
+## 14.15 – 15.15
 * Lesley Belcher, ART Chair; **Retaining your ringers**
 * Nigel Taylor; **What is out of tune?**
 
-# 15.30 – 16.30
-* Steve Farmer; **Ringing simulators, friend or foe?**
-* Tom Ridgman; **Keeping everything in tip top condition**
+## 15.30 – 16.30
+* Steve Farmer; **Ringing Simulators - Friend and Foe?**
+* Tom Ridgman; **Keeping the Tower and Bells in good condition**
 
 These talks will take place in the Teaching and Learning Building, which will be clearly signposted
 

@@ -1,15 +1,10 @@
 ---
 layout: splash
-title: The Roadshow
+title: 
 entries_layout: grid
 classes: wide
-excerpt: There should be something for everyone at the 2022 Roadshow! 
 header:
-  overlay_image: https://cccbr.org.uk/wp-content/uploads/2018/11/bells-e1543182688336.jpg
-  caption: Inveraray Bell Chamber photo courtesy of Jonathan Frye
-  actions:
-  - label: Find out more
-    url: "/location"
+  image: /media/nottingham-logo.png
 feature_row:
 - image_path: /media/rolls.jpg
   alt: Exhibitors
@@ -25,15 +20,17 @@ feature_row:
   btn_class: btn--primary
   btn_label: Learn more
 - image_path: /media/stallpits.jpg
-  alt: Mini Ring
-  title: Mini Ring
+  alt: Mini Rings
+  title: Mini Rings
   excerpt: Try your hand on a mini ring
-  url: "/mini-ring"
+  url: "/mini-rings"
   btn_class: btn--primary
   btn_label: Learn more
 ---
 
 {% include feature_row %}
+
+There should be something for everyone at the 2022 Roadshow! 
 
 # What?
 

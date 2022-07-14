@@ -1,5 +1,5 @@
 ---
-title: Mini Ring
+title: Mini Rings
 layout: single
 ---
 

@@ -7,8 +7,8 @@ main:
     url: /speakers
   - title: "Food & Drink"
     url: /food-drink
-  - title: Mini Ring
-    url: /mini-ring
+  - title: Mini Rings
+    url: /mini-rings
   - title: Bookings
     url: /bookings
 
