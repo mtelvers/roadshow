@@ -30,3 +30,12 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 .greedy-nav {
   background-color: rgb(19, 34, 67) !important;
 }
+
+.archive__item-title {
+  margin-top: 0px !important;
+}
+
+.archive__item a {
+    border: 1px solid black;
+}
+

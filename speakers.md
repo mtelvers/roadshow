@@ -6,37 +6,53 @@ speaker_row_colin:
   speaker: Colin Newman
   org: CCCBR Schools and Youth Groups Workgroup Leader
   excerpt: "**Engaging with Young Ringers**"
+  url: https://www.eventbrite.com/e/380431660337
+  btn_label: ">> Book now <<"
 speaker_row_rebecca:
 - image_path: /media/rebecca-mayer.jpg
   speaker: Marcus Booth & Rebecca Meyer 
   org: Benefact Group (Ecclesiastical Insurance)
   excerpt: "**Insurance and Risk Assessment in Bellringing**"
+  url: https://www.eventbrite.com/e/380480857487
+  btn_label: ">> Book now <<"
 speaker_row_arthur:
 - image_path: /media/arthur-reeves.png
   speaker: Arthur Reeves
   org: St Martin’s Guild and Birmingham School of Bell Ringing tutor
   excerpt: "**How can we be the best teacher for our students?**"
+  url: https://www.eventbrite.com/e/380414278347
+  btn_label: ">> Book now <<"
 speaker_row_gareth:
 - image_path: /media/gareth-davies.jpg
   speaker: Gareth Davies
   excerpt: "**Who wants to be a ringing millionaire?**"
+  url: https://www.eventbrite.com/e/380451850727
+  btn_label: ">> Book now <<"
 speaker_row_lesley:
 - image_path: /media/lesley-belcher.jpg
   speaker: Lesley Belcher
   org: ART Chair
   excerpt: "**Retaining your ringers**"
+  url: https://www.eventbrite.com/e/380436936117
+  btn_label: ">> Book now <<"
 speaker_row_nigel:
 - image_path: /media/nigel-taylor.jpg
   speaker: Nigel Taylor
   excerpt: "**What is out of tune?**"
+  url: https://www.eventbrite.com/e/380454729337
+  btn_label: ">> Book now <<"
 speaker_row_steve:
 - image_path: /media/steve-farmer.jpg
   speaker: Steve Farmer
   excerpt: "**Ringing Simulators - Friend and Foe?**"
+  url: https://www.eventbrite.com/e/380439794667
+  btn_label: ">> Book now <<"
 speaker_row_tom:
 - image_path: /media/tom-ridgman.jpg
   speaker: Tom Ridgman
   excerpt: "**Keeping the Tower and Bells in good condition**"
+  url: https://www.eventbrite.com/e/380446805637
+  btn_label: ">> Book now <<"
 ---
 
 We are pleased to have been able to assemble an engaging group of speakers with a diverse range of topics. 
