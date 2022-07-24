@@ -15,6 +15,7 @@ Things to see, things to do, things to learn, things to try, things to buy – w
 | Nicholson bellhangers     |                         | Loughborough Bellfoundry Trust    |                              |
 | Whites of Appleton        |                         | The Ringing World                 |                              |
 | Matthew Higby bellhangers |                         | The Dumb Bell Society             |                              |
+| Benfield Bells            |                         |                                   |                              |
 
 # Central Council Workgroups and services
 
