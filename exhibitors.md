@@ -11,7 +11,7 @@ Things to see, things to do, things to learn, things to try, things to buy – w
 | ------------------------- | ----------------------- | --------------------------------- | ---------------------------- |
 | Bells of Whitechapel      | DDA wombell             | Association of Ringing Teachers   | Avon Ropes                   |
 | John Taylor bellfoundry   | David Bagley simulators | Handbell Ringers of Great Britain | Big Wilf Muffles             |
-| Tom Blyth bellhanger      | Handbell books          | Young Change Ringers Association  | Ben Johnson 3D bell printing |
+| Tom Blyth bellhanger      | Handbell books          | Young Change Ringers Association  | eBells                       |
 | Nicholson bellhangers     |                         | Loughborough Bellfoundry Trust    |                              |
 | Whites of Appleton        |                         | The Ringing World                 |                              |
 | Matthew Higby bellhangers |                         | The Dumb Bell Society             |                              |
