@@ -9,3 +9,4 @@ The 2022 Roadshow is being held in the Pavilion Building at the Clifton Campus o
 
 While the campus is accessible on public transport, it also has ample parking. 
 
+The postcode of the venue for SatNav purposes is NG11 8NS.

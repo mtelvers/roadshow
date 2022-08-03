@@ -48,7 +48,7 @@ There should be something for everyone at the 2022 Roadshow!
 
 # Where?
 
-    Clifton Campus, Nottingham Trent University
+    Clifton Campus, Nottingham Trent University, NG11 8NS.
 
 # Cost?
 
