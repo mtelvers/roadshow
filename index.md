@@ -44,7 +44,7 @@ There should be something for everyone at the 2022 Roadshow!
 
 # When?
 
-    Sunday 4th September
+    Sunday 4th September 10am - 5pm
 
 # Where?
 
