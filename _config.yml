@@ -46,9 +46,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-search: true
-search_full_content: true
-search_provider: lunr
+#search: true
+#search_full_content: true
+#search_provider: lunr
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -31,6 +31,10 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
   background-color: rgb(19, 34, 67) !important;
 }
 
+.greedy-nav .hidden-links {
+  background-color: rgb(19, 34, 67) !important;
+}
+
 .archive__item-title {
   margin-top: 0px !important;
 }

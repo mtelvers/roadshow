@@ -9,6 +9,8 @@ main:
     url: /food-drink
   - title: Mini Rings
     url: /mini-rings
+  - title: Merch
+    url: /merch
   - title: Bookings
     url: /bookings
 
