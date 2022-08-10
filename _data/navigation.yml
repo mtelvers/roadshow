@@ -14,3 +14,23 @@ main:
   - title: Bookings
     url: /bookings
 
+speakers:
+  - title: Speakers
+    children:
+      - title: Arthur Reeves
+        url: arthur-reeves
+      - title: Colin Newman
+        url: colin-newman
+      - title: Gareth Davies
+        url: gareth-davies
+      - title: Lesley Belcher
+        url: lesley-belcher
+      - title: Marcus Booth & Rebecca Mayer
+        url: marcus-booth-rebecca-mayer
+      - title: Nigel Taylor
+        url: nigel-taylor
+      - title: Steve Farmer
+        url: steve-farmer
+      - title: Tom Ridgman
+        url: tom-ridgman
+

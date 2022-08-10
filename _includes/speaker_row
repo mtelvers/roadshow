@@ -21,7 +21,7 @@
 
         <div class="archive__item-title" itemprop="headline">
           {% if f.speaker %}
-            <h2 class="archive__item-title">{{ f.speaker }}</h2>
+            <h2 class="archive__item-title">{{ f.speaker | markdownify }}</h2>
           {% endif %}
 
           {% if f.org %}
@@ -30,15 +30,16 @@
             </div>
           {% endif %}
 
-          {% if f.excerpt %}
-            <div class="archive__item-excerpt">
-              {{ f.excerpt | markdownify }}
-            </div>
+          <p>
+          {% if f.url %}
+            <a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% if f.url2 %}
+            <a href="{{ f.url2 | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
           {% endif %}
+          </p>
+
         </div>
       </article>
     </div>
