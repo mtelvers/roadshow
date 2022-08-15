@@ -7,6 +7,8 @@ Come to the Roadshow looking the part! We have a great polo shirt to mark the No
  
 In order to buy one, please follow this [link](https://events.cccbr.org.uk/product/polo-shirt/) which will take you to the shopping basket on the CCCBR Weekend website.
 
+**Orders must be placed by 11:59 pm Tuesday 16th August (UK time)**
+
 ![green polo shirt](https://events.cccbr.org.uk/wp-content/uploads/2022/07/Ryan-green-polo.jpg)
 
 
