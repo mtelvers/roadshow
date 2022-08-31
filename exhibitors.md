@@ -31,7 +31,7 @@ Stewardship & Management Workgroup – there to help with all manner of question
 
 # Having a go
 
-Avon Ropes is going to be displaying a rope walk so you can have a go at making a bellrope
+Avon Ropes is going to be displaying a rope walk so you can have a go at making your own length of rope.
 
 A number of pairs of [Ebells](https://ebells.co.uk) will be set up connected to laptops so you can see how these can help you to ring handbells using software tools
 
